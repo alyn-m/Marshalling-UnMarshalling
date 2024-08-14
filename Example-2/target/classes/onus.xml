@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <OnusRouteRequest>
+        <GrpHdr>
+            <MsgId>URJL1X5S75G814d4c86bb054df087916</MsgId>
+            <!-- <CreDtTm/>-->
+        </GrpHdr>
+        <AgtInf>
+          <!-- <PmtId>
+                <InstrId>URJL1X5S75G61f3672741e140a195c16</InstrId>
+            </PmtId> -->
+            <DbtrAgt>
+                <FinInstnId>
+                    <ClrSysMmbId>
+                        <MmbId>263181384</MmbId>
+                    </ClrSysMmbId>
+                </FinInstnId>
+            </DbtrAgt>
+            <CdtrAgt>
+                <FinInstnId>
+                    <ClrSysMmbId>
+                        <MmbId>267084131</MmbId>
+                    </ClrSysMmbId>
+                </FinInstnId>
+            </CdtrAgt>
+        </AgtInf>
+    </OnusRouteRequest>
+</Document>
